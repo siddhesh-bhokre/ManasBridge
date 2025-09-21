@@ -1,0 +1,7 @@
+{
+  "name": "ManasBridge",
+  "description": "ManasBridge is a confidential, empathetic, AI-driven mental wellness platform designed for Indian youth. It offers a safe space for users to chat, track their mood through daily check-ins, access helpful resources, and find emergency support, all within a calming and accessible interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
